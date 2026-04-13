@@ -1,2 +1,2 @@
-Just download the zip file and check it out, still incomplete btw, working on it; gonna upload all the parts soon 
+Just download the zip file and check it out, still incomplete btw, working on it; gonna upload all the parts soon.
 Just finished it, Yipeeee, one note to all the guys seeing this important one, if anyone corp or org wanna use this, change the server and make your own database file, not gonna centralize it as I focus on AI, hire some guy to do it, don't expect everything, as the world isn't rainbows and sunshine XD.
